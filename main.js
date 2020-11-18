@@ -651,6 +651,4 @@ client.on("message", msg => {
     }
 });
 
-//NzAxNDM1OTM5MTY3MjcyOTYx.Xp2-iw.1SCye00JmobiWCryxaQuJf2IfU8
-//NjYxNTk3MzIwMzkwOTAxNzk2.XoHAGw.l8Pv7RH1dO_maTSmNLMoZi6hsFs
-client.login("NjYxNTk3MzIwMzkwOTAxNzk2.XoHAGw.l8Pv7RH1dO_maTSmNLMoZi6hsFs")
+client.login("Token")
